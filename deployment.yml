@@ -32,4 +32,4 @@ spec:
     - port: 80
       targetPort: 8080
   selector:
-    app: node-todo-ap
+    app: node-todo-app
